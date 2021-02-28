@@ -1,0 +1,26 @@
+form {
+  width: 100%;
+  background-color: rgb(23, 34, 71);
+  padding: 3rem;
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
+}
+
+form > input {
+  padding: 1rem;
+  outline: none;
+  margin-top: 1rem;
+  font-weight: 600;
+  width: 20rem;
+}
+
+.content {
+  margin: 0 auto;
+}
+
+.content h1,
+h2 {
+  margin: 2rem;
+  text-align: center;
+}
